@@ -1,7 +1,7 @@
-##STM32DCBD-motor-control
+## STM32DCBD-motor-control
 Real-time programming for a precise DC motor controller on a ARM Cortex M3/4 based microcontroller. It can recieve messages from ROS that control the motor and change the PD parameters of the speed control.
 It also returns the current rpm of the motor to ROS. It is a great template that can be used for many future projects.
-##Repo structure
+## Repo structure
 ```
 ├── mbed-os
 ├── src
